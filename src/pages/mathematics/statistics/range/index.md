@@ -11,5 +11,10 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
+### Variance
 
+Variance is the average of the squared differences from.the mean.
+Deviation = x(i) - x(mean)
+Squared Deviation = (x(i) -x(mean))^2
+Average squared deviation = √{(x(i) -x(mean))^2/n}
 
