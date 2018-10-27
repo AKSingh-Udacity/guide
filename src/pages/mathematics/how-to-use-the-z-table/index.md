@@ -12,8 +12,8 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 ###What is Z - Table? 
-*Z table tabulates z score and proportion less than those z score.
-*Z value is used to calculate proportion of quantity like proportion of people lwhose age lies between 21 to 35.
-*We used Z - table for our ease bec it is readymade table to find the area of proportion for  a given distribution amd multiplied it with 100 to get respective percentage.
-*It is for the standard normal distribution.
+1- Z table tabulates z score and proportion less than those z score.
+2- Z value is used to calculate proportion of quantity like proportion of people lwhose age lies between 21 to 35.
+3- We used Z - table for our ease bec it is readymade table to find the area of proportion for  a given distribution amd multiplied it with 100 to get respective percentage.
+4- It is for the standard normal distribution.
 
