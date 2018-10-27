@@ -13,3 +13,6 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
 
+###Normal Distribution
+In this type of distributions, mean = median = mode and all lies at one point.
+Probability Distribution Function (PDF) is a curve with an area of 1 beneath it, to represent cumulative frequency value.
