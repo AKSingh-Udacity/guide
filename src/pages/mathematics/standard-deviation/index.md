@@ -11,5 +11,7 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
-
-
+### Standard Deviation
+Standard Deviation is the squarw root of the variance and it is used to measure distance from the mean.
+In a normal distribution 68% of the data lies within 1 Standard Deviation(SD)
+from the mean.95% within 2 Standard Deviation
